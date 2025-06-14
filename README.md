@@ -1,10 +1,10 @@
 Integrantes del equipo:
 
-Cynthia michelle Martínez de la Torre
-Ángel Janvier González Delgado
-Rogelio Flores Rodriguez
-Jonathan Yahir Ibarra Martinez
-María Almendra Castro Morín
+- Cynthia Michelle Martínez de la Torre
+- Ángel Janvier González Delgado
+- Rogelio Flores Rodriguez
+- Jonathan Yahir Ibarra Martinez
+- María Almendra Castro Morín
 
 
 
